@@ -5,6 +5,7 @@ Proyecto desarrollado para la cátedra de Metodología de Sistemas II (TFI).
 ## Integrantes
 - Paliza
 - Monteros
+- Peralta
 
 ## Descripción del Proyecto
 FlowZapas es una solución integral orientada a la gestión de inventario, ventas y facturación para locales comerciales de calzado. La aplicación está construida sobre la plataforma .NET 8 aplicando los principios de Clean Architecture (Arquitectura Limpia) para asegurar una alta mantenibilidad, desacoplamiento y escalabilidad.
